@@ -1,8 +1,9 @@
 ---
-name: Feature request
+name: YYYY Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+pipelines: mogemoge
+title: 'motyo'
+labels: 'hotyo'
 assignees: ''
 
 ---
