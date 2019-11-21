@@ -1,5 +1,0 @@
-# Hogehoge
-
-## Mogemoge
-
-- motyotyo
