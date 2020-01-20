@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: HogeBug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: popotyoro
+assignees: ''
 
 ---
 

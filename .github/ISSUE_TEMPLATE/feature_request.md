@@ -1,9 +1,8 @@
 ---
 name: YYYY Feature request
 about: Suggest an idea for this project
-pipelines: mogemoge
-title: 'motyo'
-labels: 'hotyo'
+title: motyo
+labels: ''
 assignees: ''
 
 ---
